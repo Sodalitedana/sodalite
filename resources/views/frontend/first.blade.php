@@ -18,7 +18,7 @@
 
     <section class="collors-section js-second-screen">
         <div class="section-title-block">
-            <h3 class="section-title">CHOOSE YOUR COLOR</h3>
+            <h3 class="section-title">CHOOSE YOUR COLORS</h3>
         </div>
         <ul class="colors-list">
             <li class="js-color-item color-item red-c" data-color="#dc2d31" data-fileName="red.min.css"></li>
