@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class TemplateController extends Controller
 {
    public function index(){
-       return view('frontend.first');
+       return view('frontend.second');
    }
 }

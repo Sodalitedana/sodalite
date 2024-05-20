@@ -1,6 +1,6 @@
 @extends('frontend.first')
 
-@section('page-second')
+@section('index-count')
 
 <section class="works-section js-work-sections js-first-screen">
 
@@ -17,8 +17,9 @@
         </div>
 
         <div class="column large-6 medium-6">
-            @yield('slider')
+
             <div class="work-item js-work-item">
+                @yield('slider')
                 <div class="item-view">
                     <span class="demo-btn js-demo-btn" data-target="index-r.html"></span>
                     <img src="/html/images/versions/item1.jpg" alt="">

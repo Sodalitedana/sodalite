@@ -14,7 +14,7 @@
         </div>
     </section>
 
-@yield('index.count')
+@yield('index-count')
 
     <section class="collors-section js-second-screen">
         <div class="section-title-block">
